@@ -27,5 +27,6 @@ Capacidade de um objeto ser referenciado de várias formas, ou seja, tratar obje
 ## Autora
 
 Thamara Augusto Magliano
+
 Contato: thamara_augusto@hotmail.com
 
